@@ -27,6 +27,8 @@ import com.example.nessihazan.myapplication.database.DataSource;
 import com.example.nessihazan.myapplication.model.DataItem;
 import com.example.nessihazan.myapplication.sample.SampleDataProvider;
 import com.example.nessihazan.myapplication.utils.JSONHelper;
+import com.facebook.FacebookSdk;
+import com.facebook.appevents.AppEventsLogger;
 
 import java.util.ArrayList;
 import java.util.Collections;
